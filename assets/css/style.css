@@ -75,7 +75,22 @@
     line-height: 125%;
 }
 
+.GraphIntro{
+    font-family: CMB;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    line-height: 125%;
+}
+
 .footerSize{
     height: 30vh;
     width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
