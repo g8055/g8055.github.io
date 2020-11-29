@@ -1,2 +1,2 @@
 # g8055.github.io
-dunno
+G8055 Blog that uses the LaTex template for Jekyll.
